@@ -1,0 +1,42 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nome": "Isaias"
+    },
+    {
+      "id": 2,
+      "nome": "Katia"
+    },
+    {
+      "id": 3,
+      "nome": "Mateus"
+    }
+  ],
+  "produtos": [
+    {
+      "id": 1,
+      "descricao": "Leite",
+      "valor": 3.51
+    },
+    {
+      "id": 2,
+      "descricao": "Café",
+      "valor": 8.51
+    }
+  ],
+  "usuarios": [
+    {
+      "id": 1,
+      "cargo": "chefe",
+      "nickname": "elonmusk",
+      "password": "testeelonmusk"
+    },
+    {
+      "id": 2,
+      "cargo": "empregado",
+      "nickname": "isa",
+      "password": "testeisa"
+    }
+  ]
+}

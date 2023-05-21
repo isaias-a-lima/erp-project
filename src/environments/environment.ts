@@ -3,7 +3,9 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  API_SPRING_BOOT: "http://localhost:8080/",
+  API_JSON_SERVER: "http://localhost:3000/"
 };
 
 /*
